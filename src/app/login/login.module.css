@@ -1,0 +1,45 @@
+.background{
+    background-color: #add8e6;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;   
+}
+.logo{
+    background-color: gray;
+    justify-content: center;
+    align-items: center;  
+    height: 100%;
+    padding: -20px;
+    margin-top: -40px;
+    margin-left: -20px;
+    margin-right: -20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 50px;
+
+}
+.header{
+    text-align: center;
+    color: #1657cfe1;
+    margin-bottom: 0;
+    font-size: 64px;
+}
+.text{
+    margin-top: 0;
+    color: #1657cfe1;
+    text-align: center;
+}
+.name{
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+}

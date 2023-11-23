@@ -1,0 +1,10 @@
+.dashboard {
+    color: blueviolet;
+    font-size: 60px;
+    width: 28%; 
+    height: 100vh;
+    background-color: rgb(187, 187, 187);
+    border-radius: 20px;
+    margin-top: 0px;
+  }
+  
